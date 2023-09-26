@@ -26,7 +26,7 @@
         android:text="Click for Dice Roll"
         android:textSize="32sp"
         android:textColor="@color/black"
-        android:background="#03DAC5"
+        android:background="#FF9800"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.54"
